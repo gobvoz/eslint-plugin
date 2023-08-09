@@ -1,6 +1,6 @@
 {
   "name": "@gobvoz/eslint-plugin-fsd",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "description": "eslint plugin for feature sliced design (FSD)",
   "keywords": [
     "eslint",
